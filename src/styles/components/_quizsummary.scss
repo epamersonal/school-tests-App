@@ -1,0 +1,17 @@
+.success-icon {
+    font-size: 5rem;
+    color: $green;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.stat-head {
+    text-align: center;
+}
+.container {
+    text-align: center;
+
+    .stat {
+        text-align: center;
+    }
+}
